@@ -3,7 +3,7 @@
 # http://opensource.org/licenses/MIT.
 
 layout: null
----
+-------
 {% if site.env.BITCOINORG_BUILD_TYPE == 'preview' %}
 User-agent: *
 Disallow: /
